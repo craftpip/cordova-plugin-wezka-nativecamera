@@ -1,3 +1,5 @@
+NOTE: fork of the original project, adding it to NPM.
+-------
 com.wezka.nativecamera
 ==========================
 
