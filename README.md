@@ -1,5 +1,18 @@
-NOTE: fork of the original project, adding it to NPM.
--------
+### Fork note by craftpip:
+This fork is originally from https://github.com/shaithana/cordova-plugin-wezka-nativecamera  
+
+Fixes Issue from shaithana's repo 
+https://github.com/shaithana/cordova-plugin-wezka-nativecamera/issues/38 that caused build problems
+
+Works with Ionic2 as a replacement to the cordova camera plugin.
+
+This fork is published on NPM:  
+`ionic cordova plugin add cordova-plugin-wezka-nativecamera`   
+or   
+`cordova plugin add cordova-plugin-wezka-nativecamera` 
+
+## 
+
 com.wezka.nativecamera
 ==========================
 
